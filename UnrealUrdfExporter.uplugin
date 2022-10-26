@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealUrdfExporter",
+	"Description": "",
+	"Category": "UnrealUrdfExporter",
+	"CreatedBy": "Michael Neumann",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/code-iai/UnrealUrdfExporter",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+		  "Name": "UnrealUrdfExporter",
+		  "Type": "Runtime",
+		  "LoadingPhase": "Default"
+		},
+		],
+  "Plugins": [
+    {
+      "Name": "UUtils",
+      "Enabled": true
+    }]
+}
