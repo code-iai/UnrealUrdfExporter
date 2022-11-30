@@ -16,6 +16,7 @@
 
 - ConstraintActor1 is Child
 - ConstraintActor2 is Parent
+- Origin of Child is constraint frame
 
 
 ## Possible Issues
