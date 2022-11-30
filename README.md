@@ -12,7 +12,7 @@
   - FileName: Name of the urdf
 - press BeginPlay
 
-## Assumtions for Modeling in UE4
+## Assumptions for Modeling in UE4
 
 - ConstraintActor1 is Child
 - ConstraintActor2 is Parent
